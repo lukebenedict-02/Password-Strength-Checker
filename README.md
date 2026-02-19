@@ -7,5 +7,3 @@ Warning and Limitations: This program is just a simple checker based on characte
 
 Misuse:
 
-
-Misuse:
