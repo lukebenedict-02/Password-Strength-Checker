@@ -47,12 +47,18 @@ void passwordStrengthChecker(string password){
     for (char c : password) {
         if (isdigit(c)) {
             numberInPassword = true;
-            score++;
         }
         else if (!(isalpha(c))) {
             symbolInPassword = true;
-            score++;
         } 
+    }
+
+    // Adds 1 to your score if you have a number or symbol in your password
+    if (numberInPassword = true) {
+        score++;
+    }
+    if (symbolInPassword = true) {
+        score++;
     }
 
     // Says whether you have a weak, moderate, or strong password.
