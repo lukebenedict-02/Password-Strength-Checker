@@ -6,5 +6,6 @@ Installation: This code needs a compiler in order for it to function and run pro
 
 Warning and Limitations: This program is just a simple checker based on what characters used and how many. It does not check more complex details such as: repetition, whether it is a real word or not, patterns, and whether your password is tied to other passwords. Therefore as you recieve your score (weak, moderate, strong) for your password, you should note these things.
 
-Misuse: Becuase this program doesn't check a full detailed account of your password, it can give a false sense of security. Note that this program is for education purposes and if used for actual implementation or real life production; be careful of weaknesses. I advise agaisnt storing passwords for security purposes.
+Misuse: Becuase this program doesn't check a full detailed account of your password, it can give a false sense of security. Note that this program is for education purposes and if used for actual implementation or real life production; be careful of weaknesses. I advise against storing passwords for security purposes.
+
 
